@@ -9,3 +9,22 @@ operador = input("Digite operação(+,-,*,/)")
 
 if operador == '+':
     resultado = num1 + num2
+
+elif operador == '-':
+    resultado = num1 - num2
+
+elif operador == '/':
+    if num2 !=0:
+        resultado = num1 / num2
+
+elif operador == '*':
+    resultado = num1 / num2
+    if num2 !=0:
+        resultado = num1 / num2
+    else:
+     resultado = "Erro divisão por zero"
+     
+else:
+ resultado = "Operacão invalido,Tente novamente"
+
+print("O resultado de operação é" +str(resultado))
