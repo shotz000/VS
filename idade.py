@@ -17,8 +17,10 @@ VetorDelogico[0] = True
 print(f"Na posição 0, o valor é.: {VetorDelogico[0]}")
 print(f"Na posição 1, o valor é.: {VetorDelogico[1]}")
 print(f"Na posição 2, o valor é.: {VetorDelogico[2]}")
+print(f"Na posição 3, o valor é.: {VetorDelogico[3]}")
 print(f"Na posição 4, o valor é.: {VetorDelogico[4]}")
 print(f"Na posição 5, o valor é.: {VetorDelogico[5]}")
 print(f"Na posição 6, o valor é.: {VetorDelogico[6]}")
 print(f"Na posição 7, o valor é.: {VetorDelogico[7]}")
+
 
