@@ -44,11 +44,11 @@ VetorDelogico[0] = True
 #valor da variavel.
 
 
-print("Na posição 0, o valor é.:(vetorDelogico[0])")
-print("Na posição 1, o valor é.:(vetorDelogico[1])")
-print("Na posição 2, o valor é.:(vetorDelogico[2])")
-print("Na posição 4, o valor é.:(vetorDelogico[4])")
-print("Na posição 5, o valor é.:(vetorDelogico[5])")
-print("Na posição 6, o valor é.:(vetorDelogico[6])")
-print("Na posição 7, o valor é.:(vetorDelogico[7])")
+print(f"Na posição 0, o valor é.: {VetorDelogico[0]}")
+print(f"Na posição 1, o valor é.: {VetorDelogico[1]}")
+print(f"Na posição 2, o valor é.: {VetorDelogico[2]}")
+print(f"Na posição 4, o valor é.: {VetorDelogico[4]}")
+print(f"Na posição 5, o valor é.: {VetorDelogico[5]}")
+print(f"Na posição 6, o valor é.: {VetorDelogico[6]}")
+print(f"Na posição 7, o valor é.: {VetorDelogico[7]}")
 
