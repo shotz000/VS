@@ -1,24 +1,4 @@
-print("Cafeteria de BH")
-print("----------------")
-print("")
-print("****TIPOS DE CAFÉ****")
-print(" ")
-print("Café Simples")
-print("Café expresso")
-print("Café Moderno")
-print("")
-print("*** PREÇOS ***")
-print("")
-print("CAFÉ SIMPLES R$7.00")
-print("CAFÉ EXPRESSO R$10.00")
-print("CAFÉ MODERNO R$15.00")
-print("_______________________")
-print("DIGITE O TIPO DE CAFÉ:")
-
-
-tipocafé = input()
-
-if tipocafé = print("VOCE ESCOLHEU O CAFÉ SIMPLES = R$7.00")
-
-print("QUANTOS CAFÉ VOCE VAI QUERER?")
-quantcafe = float(input())
+preco_cafe = float(input("Qual o preço de um café? R$ "))
+quantidade = int(input("Quantos cafés você quer comprar? "))
+total = preco_cafe * quantidade
+print(f"Total a pagar: R$ {total:.2f}")
